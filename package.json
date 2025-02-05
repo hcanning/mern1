@@ -1,6 +1,8 @@
 {
   "name": "hcann1",
-  "engines": {"node": "20.10.0"} ,
+  "engines": {
+    "node": "16.16.0"
+  },
   "version": "1.0.0",
   "description": "> Social network for developers",
   "main": "server.js",
