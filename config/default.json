@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://user1:vwlAkzkmzuIogcOc@hcann-cluster-mern1.nv6yo.mongodb.net/?retryWrites=true&w=majority&appName=HCANN-CLUSTER-MERN1",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "Ov23liLQCtYp4K0Xv1sF",
+  "githubSecret": "6bb4856cb40efda1880229473d4635874aeba21b"
+}
